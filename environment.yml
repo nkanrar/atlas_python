@@ -7,6 +7,6 @@ dependencies:
   - scikit-learn = 1.0.1
   - matplotlib = 3.4.3
   - seaborn = 0.11.2
-  - pip
+  - pip:
     - watermark = 2.2.0
     - blackcellmagic = 0.0.3
