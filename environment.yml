@@ -8,5 +8,5 @@ dependencies:
   - matplotlib = 3.4.3
   - seaborn = 0.11.2
   - pip:
-    - watermark = 2.2.0
-    - blackcellmagic = 0.0.3
+    - watermark == 2.2.0
+    - blackcellmagic == 0.0.3
